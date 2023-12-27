@@ -1,6 +1,3 @@
-# portfolio
-Showcasing my work
+# SQL Spaced-Repetition-System
 
-- Power BI Reports
-- Web App: Performance Dashboard
-- Data Architecture Scraper
+Creating a Streamlit App with SRS to learn SQL
